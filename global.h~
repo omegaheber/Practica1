@@ -1,0 +1,16 @@
+/**
+*
+*/
+
+#ifndef _GLOBAL_H
+#define _GLOBAL_H
+
+#define TRUE 1
+#define FALSE 0
+
+#define CONFIG_DEFAULT_PORT 80
+
+#define MINPORT 1
+#define MAXPORT 95000
+
+#endif
